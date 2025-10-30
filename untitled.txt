@@ -1,1 +1,2 @@
 これはpull request機能のテストです。
+これは2回目のpull request機能のテストです。
