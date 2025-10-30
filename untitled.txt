@@ -1,2 +1,2 @@
 これはpull request機能のテストです。
-これは2回目のpull request機能のテストです。
+2回目より３回目のpull requestを優先してmergeしてください。
